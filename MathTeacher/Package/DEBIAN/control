@@ -1,0 +1,17 @@
+Package: com.peppa.MathTeacher
+Name: MathTeacher
+Version: 1.1.1
+Description: Calculator on steroids
+Section: System
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: gabriele filipponi
+dev: Gabriele Filipponi
+Homepage: 
+Depiction: 
+Maintainer: Gabriele Filipponi
+Icon:
+
